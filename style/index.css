@@ -453,3 +453,9 @@ padding:20px;
       width:97%;
   }
 }
+.aboutcontent img{
+  width:100%;
+}
+#leader:hover{
+  color:red;
+}
